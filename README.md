@@ -11,5 +11,3 @@ Isso permite paralelizar o cálculo.
 Entrada: `5 a 25`  
 - Thread 1 → `5 a 15`  
 - Thread 2 → `16 a 25`  
-
-Saída combinada: 5, 7, 11, 13, 17, 19, 23
